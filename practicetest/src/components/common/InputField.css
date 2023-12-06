@@ -1,0 +1,17 @@
+.input-field {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  outline: none;
+}
